@@ -1,6 +1,6 @@
 ## NAIVE BAYES
 
-### suatu proses untuk mengelompokkan sample dalam class yang sama berdasarkan kemiripan. Algoritma ini termasuk kedalam algoritma Unsupervised Learning.
+### suatu proses untuk mengelompokkan sample dalam class yang sama berdasarkan kemiripan. Algoritma ini termasuk kedalam algoritma Supervised Learning.
 Saya menggunakan library scikit-learn dimana data yang ada didalam TrainsetTugas1ML.csv bukanlah data numeric
 ### Sebenarnya langkah yang digunakan hanya memerlukan beberapa baris
 
